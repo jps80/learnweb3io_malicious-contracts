@@ -1,1 +1,2 @@
 # learnweb3io_malicious-contracts
+This project is part of Learnweb3's Ethereum-Developer-Degree course: https://learnweb3.io/degrees/ethereum-developer-degree/senior/identifying-genuine-looking-contracts-which-are-actually-malicious/

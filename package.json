@@ -1,0 +1,24 @@
+{
+  "name": "learnweb3io_malicious-contracts",
+  "version": "1.0.0",
+  "description": "This project is part of Learnweb3's Ethereum-Developer-Degree course: https://learnweb3.io/degrees/ethereum-developer-degree/senior/identifying-genuine-looking-contracts-which-are-actually-malicious/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jps80/learnweb3io_malicious-contracts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jps80/learnweb3io_malicious-contracts/issues"
+  },
+  "homepage": "https://github.com/jps80/learnweb3io_malicious-contracts#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.16.1"
+  }
+}
